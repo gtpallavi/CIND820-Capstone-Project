@@ -22,10 +22,17 @@ Python
 
 **CODING FILES**
 
-EDA.ipynb
-TopicModelling.ipynb
+CIND820_Pallavi_DataDesc.ipynb
+
+CIND820_EDA.ipynb
+
+CIND820_TopicModelling.ipynb
+
 **PDF DOCUMENTS**
+
 1.	AbstractCIND820_Revised.pdf
-2.	CIND820_LiteratureReview.pdf
-3.	CIND820_InitialResults.pdf
+
+3.	CIND820_LiteratureReview.pdf
+
+5.	CIND820_InitialResults.pdf
 
