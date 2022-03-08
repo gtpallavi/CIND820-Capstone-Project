@@ -22,8 +22,10 @@ Python
 
 **CODING FILES**
 
+EDA.ipynb
+TopicModelling.ipynb
 **PDF DOCUMENTS**
 1.	AbstractCIND820_Revised.pdf
-2.	LiteratureReview.pdf
-3.	InitialResults.pdf
+2.	CIND820_LiteratureReview.pdf
+3.	CIND820_InitialResults.pdf
 
