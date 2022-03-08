@@ -14,6 +14,10 @@ The purpose of this project is to apply Text Mining and Sentiment Analysis using
 
 Python
 
+**Dataset Link**
+
+https://www.kaggle.com/gpreda/covid19-tweets
+
 **TABLE OF CONTENTS:**
 1.	Abstract
 2.	Literature Review
